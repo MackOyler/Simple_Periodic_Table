@@ -41,6 +41,11 @@ int main()
     }
     else if(n==2)
     {
-        
+        printf("Do you want to exit? (Yes/No)\n");
+        printf("> Press 6 for Y\n");
+        printf("> Press 7 for No\n");
+
+        printf("ENTER\n");
+        scanf("%d", &Exit);
     }
 }
