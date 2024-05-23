@@ -1,4 +1,4 @@
-# Simple_Periodic_Table
+# Simple Periodic Table
 
 Welcome to the Simple Periodic Table project. This program provides information about elements in the periodic table. Currently, it supports searching elements by their atomic number and provides details such as name, symbol, atomic number, electronic configuration, discovery information, and typical charge.
 
